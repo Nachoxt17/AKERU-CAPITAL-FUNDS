@@ -1,6 +1,6 @@
-# [開ける資金] AKERU CAPITAL
+# [開ける資金] AKERU CAPITAL💹.
 
-- S.a.a.S. Platform of Blockchain Self-Serving Solutions for Investors.
+- Web3.0 Decentralized Platform for Crypto Professional and Retail Investors to Creat and Manage or Join Investment Funds and Investment Syndicates; with a Pre-Filtered List of Assets Available in which to Invest for the Long Term, thus avoiding meme coins, shit coins or any other projects of dubious or unexistent Fundamental Value and Transparent Reputation.
 
 ## For Testing the Successful S.C. DEMO Deployed in the Mumbai Polygon TestNet:
 
